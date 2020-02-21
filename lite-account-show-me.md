@@ -26,7 +26,7 @@ A Lite account is a free account that never expires. What is offered in a Lite a
 {: shortdesc}
 
   <div class="embed-responsive embed-responsive-16by9" data-hd-video="video">
-    <iframe class="embed-responsive-item" id="youtubeplayer" title="IBM Cloud Lite account" type="text/html" width="640" height="390" src="https://www.youtube.com/embed/0rMYXcbpHbI" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
+    <iframe class="embed-responsive-item" id="youtubeplayer" title="IBM Cloud Lite account" type="text/html" width="640" height="390" src="https://www.youtube.com/embed/T3hcBnkJYLw" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
   </div>
 
 ## Video transcript
@@ -38,7 +38,7 @@ The following section provides the transcript for the Lite account video for use
 
 Ready to experience {{site.data.keyword.Bluemix_notm}} for an unlimited amount of time at no cost? The free {{site.data.keyword.Bluemix_notm}} Lite account never expires. Meaning, you can build smart, connected apps with the best of {{site.data.keyword.Bluemix_notm}} for free for as long as you like.
 
-After you create your Lite account, hit the ground running by hosting your apps with 256 MB of Cloud Foundry runtime memory and 2 GB with Kubernetes clusters.
+After you create your Lite account, hit the ground running by hosting your apps with 256 MB of Cloud Foundry runtime memory.
 
 Add intelligence to your apps with Watson services. You can even combine Watson with the {{site.data.keyword.iot_short_notm}} to build cutting edge solutions. You'll also have access to {{site.data.keyword.apiconnect_short}}, {{site.data.keyword.mobilepushshort}}, {{site.data.keyword.prf_hubshort}}, and more.
 
