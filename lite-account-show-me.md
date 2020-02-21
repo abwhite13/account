@@ -26,7 +26,7 @@ A Lite account is a free account that never expires. What is offered in a Lite a
 {: shortdesc}
 
   <div class="embed-responsive embed-responsive-16by9" data-hd-video="video">
-    <iframe class="embed-responsive-item" id="youtubeplayer" title="IBM Cloud Lite account" type="text/html" width="640" height="390" src="https://www.youtube.com/embed/0rMYXcbpHbI" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
+    <iframe class="embed-responsive-item" id="youtubeplayer" title="IBM Cloud Lite account" type="text/html" width="640" height="390" src="https://www.youtube.com/watch?v=T3hcBnkJYLw" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
   </div>
 
 ## Video transcript
